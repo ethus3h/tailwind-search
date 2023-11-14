@@ -16,6 +16,8 @@ I made this application because I am often confused by Tailwind CSS’ naming of
 
 ## Development
 
+- **to build Tailwind** - run `npx yarn css:build`
+
 - **No build system needed.** Just clone the Git repository, open `index.html` file in your browser. Edit, save and refresh. Append `?dev=1` to URL to load full Tailwind CSS file.
 
 ## Usage in Node
