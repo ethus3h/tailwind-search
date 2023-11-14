@@ -2,8 +2,10 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^2.1.0",
     "@tailwindcss/custom-forms": "^0.2.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
     "purgecss": "^2.1.0",
-    "tailwindcss": "^1.9.6"
+    "tailwindcss": "^3.3.5"
   },
   "files": [
     "index.js"
