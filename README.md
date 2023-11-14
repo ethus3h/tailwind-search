@@ -1,12 +1,8 @@
-# @dtinth’s Tailwind CSS Class Search
+# @dtinth’s Tailwind CSS Class Search updated by @ethus3h
 
-Having trouble memorizing all the utility classes in Tailwind? Remembered the CSS code, but did not remember which is the corresponding Tailwind CSS utility class? [Search for it here!](https://tailwind.spacet.me/)
+Having trouble memorizing all the utility classes in Tailwind? Remembered the CSS code, but did not remember which is the corresponding Tailwind CSS utility class? [Search for it here!](https://tailwind-class-search.pages.dev/)
 
 This little web application parses the Tailwind CSS file right from `unpkg.com` using [css-tree](https://www.npmjs.com/package/css-tree), and generates a searchable index that lets you search for a utility class’s name, if you know the generated CSS code you want. The web app is built with [Vue.js](https://vuejs.org/), fast fuzzy-searching is provided by [fuzzysort](https://www.npmjs.com/package/fuzzysort) and the result list is lazily rendered with help of [vue-virtual-scroller](https://www.npmjs.com/package/vue-virtual-scroller).
-
-[![Screenshot](https://github.com/dtinth/timelapse/raw/master/projects/tailwind-search_results.png)](https://tailwind.spacet.me/)
-
-I made this application because I am often confused by Tailwind CSS’ naming of classes.
 
 - When do I use `font-`? e.g. `font-bold`
 - When do I use `text-`? e.g. `text-lg` even though it’s `font-size`
