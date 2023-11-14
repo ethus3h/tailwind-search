@@ -21,7 +21,7 @@
     "fuzzysort": "^1.1.4"
   },
   "name": "@ethus3h/tailwind-css-class-search",
-  "description": "Having trouble memorizing all the utility classes in Tailwind? Remembered the CSS code, but did not remember which is the corresponding Tailwind CSS utility class? Search for it here!",
+  "description": "Fork of @dtinth's- Having trouble memorizing all the utility classes in Tailwind? Remembered the CSS code, but did not remember which is the corresponding Tailwind CSS utility class? Search for it here!",
   "version": "0.0.1",
   "main": "index.js",
   "repository": {
