@@ -18,7 +18,8 @@
   },
   "dependencies": {
     "css-tree": "^1.0.0-alpha.39",
-    "fuzzysort": "^1.1.4"
+    "fuzzysort": "^1.1.4",
+    "yarn": "^1.22.19"
   },
   "name": "@ethus3h/tailwind-css-class-search",
   "description": "Fork of @dtinth's- Having trouble memorizing all the utility classes in Tailwind? Remembered the CSS code, but did not remember which is the corresponding Tailwind CSS utility class? Search for it here!",
