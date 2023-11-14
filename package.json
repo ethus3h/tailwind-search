@@ -24,12 +24,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dtinth/tailwind-search.git"
+    "url": "git+https://github.com/ethus3h/tailwind-search.git"
   },
-  "author": "Thai Pangsakulyanont <org.yi.dttvb@gmail.com> (http://dt.in.th/)",
+  "author": "Thai Pangsakulyanont <org.yi.dttvb@gmail.com> (http://dt.in.th/), ethus3h",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dtinth/tailwind-search/issues"
+    "url": "https://github.com/ethush/tailwind-search/issues"
   },
-  "homepage": "https://github.com/dtinth/tailwind-search#readme"
+  "homepage": "https://github.com/ethus3h/tailwind-search#readme"
 }
