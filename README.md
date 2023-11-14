@@ -1,4 +1,4 @@
-# @dtinth’s Tailwind CSS Class Search updated by @ethus3h
+# @dtinth’s Tailwind CSS Class Search updated by @ethus3h for Tailwind 3
 
 Having trouble memorizing all the utility classes in Tailwind? Remembered the CSS code, but did not remember which is the corresponding Tailwind CSS utility class? [Search for it here! https://tailwind-class-search.pages.dev/](https://tailwind-class-search.pages.dev/)
 
